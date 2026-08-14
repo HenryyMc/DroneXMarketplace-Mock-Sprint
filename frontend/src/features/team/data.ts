@@ -4,7 +4,7 @@ export const teamMembers: TeamMember[] = [
   {
     name: 'Bao Nguyen Le',
     role: 'Project Manager + UX',
-    photoUrl: '/images/team/',
+    photoUrl: '/images/team/jinwoo.webp',
     bio: 'Project manager for the team, coordinating the sprint board, task allocation, and sign-off. Also contributes to the UX and design side of the project.',
   },
   {
@@ -16,13 +16,13 @@ export const teamMembers: TeamMember[] = [
   {
     name: 'Justin Agra',
     role: 'Business Analyst + Developer',
-    photoUrl: '/images/team/',
+    photoUrl: '/images/team/PXL_20260312_040834647.MP.webp',
     bio: 'Works across both analysis and development, contributing to requirements as well as front-end work. Also handles testing and verification of delivered features.',
   },
   {
     name: 'Wen Han Chong',
     role: 'Business Analyst',
-    photoUrl: '/images/team/',
+    photoUrl: '/images/team/welp.webp',
     bio: 'Lead business analyst, responsible for gathering requirements and defining the acceptance criteria the team builds against. Works with the team to keep scope and priorities clear.',
   },
 ]
